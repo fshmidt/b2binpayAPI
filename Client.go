@@ -7,7 +7,7 @@ import (
 const (
 	contentType = "application/vnd.api+json"
 	mockAPI     = "https://api-sandbox.b2binpay.com/"
-	realAPI     = "https://api.b2binpay.com/\n\n"
+	realAPI     = "https://api.b2binpay.com/"
 )
 
 type Client struct {
